@@ -1,4 +1,4 @@
-
+<a id="readme-top"></a>
 <h3 align="center">Genshin Impact Artifact Optimisation Simulator</h3>
 
   <p align="center">
