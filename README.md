@@ -78,7 +78,7 @@ Alternatively, you can install **Anaconda** which includes these libraries by de
 1. Clone the repository
    ```sh
    git clone https://github.com/Josh-Rudloff/Artifact-Optimisation-Simulator.git
-   cd Artifact-Optimization-Simulator
+   cd Artifact-Optimisation-Simulator
    ```
 2. Run the simulation
 
