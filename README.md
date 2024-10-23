@@ -129,9 +129,9 @@ Supported options:
 
 ### Visualisation Examples
 
-gif of running code
+![gif of running code](./Artifact_Optimiser_Demo.gif)
 
-Example plots with confidence intervals
+![example plots with confidence intervals](./Simulation_Demo_Plot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
