@@ -147,6 +147,8 @@ This project is organised into several Python modules, each handling different a
   Contains the classes and data structures for artifacts and loadouts. This file defines how artifacts are represented, including main stats, sub stats, and how they combine to form a character's complete loadout.
 - `artifactcombos.py`:
   Generates all possible artifact stat combinations used for calculating the maximum theoretical damage. This module creates combinations based on the predefined sets of stats and filters.
+- `artifactgeneration.py`:
+  Randomly generates a complete artifact at level 20. This module contains information on possible stats and calculates their corresponding probabilities, as well as containing some tools for comparing generated artifacts.
 - `characterselection.py`:
   Manages character information and user input. It contains predefined data for each character, such as their base stats, weapons and elemental reactions. This module also prompts the user to select a character, weapon, artifact set, and reaction type.
 - `damagecalculator.py`:
